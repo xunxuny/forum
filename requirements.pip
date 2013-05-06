@@ -1,0 +1,13 @@
+Django
+South
+django-lb-attachments
+django-onlineuser
+django_simple_avatar
+postmarkup
+BeautifulSoup
+
+setuptools
+turbogears
+registration
+django_simple_captcha
+django_pagination
